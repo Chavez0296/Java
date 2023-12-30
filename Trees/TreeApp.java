@@ -306,6 +306,11 @@ class TreeApp {
                 else
                     System.out.print("Could not delete " + value + "\n");
                 break;
+            case 't':
+                System.out.print("Enter type 1, 2 or 3: ");
+                value = getInt();
+                theTree.traverse(value);
+                break;
             default:
                 System.out.print("Invalid entry\n");
         }
