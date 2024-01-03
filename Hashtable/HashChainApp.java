@@ -160,7 +160,7 @@ class HashChainApp {
 
         while(true)
         {
-            System.out.print("Emter first leter of ");
+            System.out.print("Enter first leter of ");
             System.out.print("show, insert, delete, or find: ");
             char choice = getChar();
             switch(choice)
@@ -184,7 +184,7 @@ class HashChainApp {
                     aKey = getInt();
                     aDataItem = theHashTable.find(aKey);
                     if(aDataItem != null)
-                        System.out.print("Found " + aKey);
+                        System.out.print("Found " + aKey + "\n");
                     else
                         System.out.println("Could not find " + aKey);
                     break;
