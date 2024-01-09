@@ -12,4 +12,4 @@ Iterating through array as array[i] where is the index for the array.
 
   for(int i = 0; i < array.length; i++)  index starts at 0 
   
-    system.out.print(array[i] + " ");     printing array in unordered/ordered fashion.
+   system.out.print(array[i] + " ");     printing array in unordered/ordered fashion.
