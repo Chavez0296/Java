@@ -1,4 +1,4 @@
-
+package Stacks;
 class Stack
 {
     private int maxSize;

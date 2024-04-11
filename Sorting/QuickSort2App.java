@@ -1,5 +1,5 @@
 //demonstrates quick sort with median of three partitioning
-
+package Sorting;
 class ItemIns
 {
     private long[] theArray; //ref to array theArray

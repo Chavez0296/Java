@@ -1,3 +1,4 @@
+package Sorting;
 class ArrayIns
 {
     private long[] a;

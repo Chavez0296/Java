@@ -1,3 +1,4 @@
+package Stacks;
 class Queue 
     {
         private int maxSize;

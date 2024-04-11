@@ -1,5 +1,5 @@
 //demonstrates partitioning an array
-
+package Sorting;
 class ArrayPar
 {
     private long[] theArray;

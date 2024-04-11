@@ -1,3 +1,4 @@
+package Sorting;
 class SelectSort {
     private long[] a;
     private int nElems;

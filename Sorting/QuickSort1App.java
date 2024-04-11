@@ -1,5 +1,6 @@
 //demonstrates simple version of quicksort
 
+package Sorting;
 class ItemOb
 {
     private long[] theArray;

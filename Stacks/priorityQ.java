@@ -1,5 +1,5 @@
+package Stacks;
 import java.io.IOException;
-
 class PrioQ
 {
     private int maxSize;

@@ -1,5 +1,5 @@
 //demonstrates quick sort using insertionn sort for cleanup
-
+package Sorting;
 class ArrOb
 {
     private long[] theArray;

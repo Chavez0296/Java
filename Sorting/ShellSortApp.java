@@ -1,4 +1,5 @@
 //demonstrates shell sort 
+package Sorting;
 class ArraySh
 {
     private long[] theArray;

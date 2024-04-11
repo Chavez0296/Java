@@ -1,4 +1,4 @@
-
+package Stacks;
 class Queue{
     private int maxSize;
     private long[] queArray;

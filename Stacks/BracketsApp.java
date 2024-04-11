@@ -1,3 +1,4 @@
+package Stacks;
 import java.io.*;
 
 class Stack
